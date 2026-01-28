@@ -19,6 +19,17 @@ Cursor IDE用のカスタムスキル（Agent Skills）コレクションです�
 | `vercel-react-native-skills` | React Native/Expo の性能・UX最適化 |
 | `vercel-composition-patterns` | React のコンポジション設計パターン |
 | `supabase-postgres-best-practices` | Supabase/Postgres のベストプラクティス |
+| `state-management-patterns` | React 状態管理パターン |
+| `threejs-react-workflow` | Three.js + React のワークフロー |
+
+### 🏗️ アーキテクチャ・設計
+
+| スキル | 説明 |
+|--------|------|
+| `api-design-guidelines` | API 設計ガイドライン |
+| `architecture-implementation-guide` | アーキテクチャ実装ガイド |
+| `system-design-and-adr` | システム設計と ADR（Architecture Decision Records） |
+| `event-driven-microservices-playbook` | イベント駆動マイクロサービスのプレイブック |
 
 ### 🛠️ 開発ツール・インフラ
 
@@ -31,6 +42,15 @@ Cursor IDE用のカスタムスキル（Agent Skills）コレクションです�
 | `monitoring-observability` | 監視・可観測性の設計と実装 |
 | `varlock` | 環境変数/シークレットの安全な管理 |
 | `mcp-builder` | MCP サーバーの設計・実装・検証 |
+| `storybook-component-workflow` | Storybook コンポーネント開発ワークフロー |
+
+### 🔐 セキュリティ
+
+| スキル | 説明 |
+|--------|------|
+| `web-security-audit` | Web セキュリティ監査 |
+| `oauth-2-1-security` | OAuth 2.1 セキュリティ実装 |
+| `zero-trust-architecture-basics` | ゼロトラストアーキテクチャの基礎 |
 
 ### 📝 ドキュメント・レビュー
 
@@ -52,6 +72,8 @@ Cursor IDE用のカスタムスキル（Agent Skills）コレクションです�
 | `frontend-design` | 高品質なフロントエンドデザインの設計・実装 |
 | `web-design-guidelines` | UI/UX とアクセシビリティ観点でのレビュー |
 | `webapp-testing` | ローカル Web アプリの手動/自動検証 |
+| `motion-and-scrollytelling` | モーション・スクロールアニメーション |
+| `link-prefetching-optimization` | リンクプリフェッチ最適化 |
 
 ### 🚀 ワークフロー・プロジェクト管理
 
