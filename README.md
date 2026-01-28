@@ -48,6 +48,7 @@ Cursor IDE用のカスタムスキル（Agent Skills）コレクションです�
 
 | スキル | 説明 |
 |--------|------|
+| `figma-implement-design` | Figma デザインをコードに変換（MCP連携、1:1ビジュアル再現） |
 | `frontend-design` | 高品質なフロントエンドデザインの設計・実装 |
 | `web-design-guidelines` | UI/UX とアクセシビリティ観点でのレビュー |
 | `webapp-testing` | ローカル Web アプリの手動/自動検証 |
